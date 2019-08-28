@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.gaurav.neargroupassignment.activities.MainActivity">
+    <item
+            android:id="@+id/delete_all_books"
+            android:title="Delete All Books"
+            app:showAsAction="never"/>
+</menu>
